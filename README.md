@@ -1,4 +1,3 @@
-[![MasterHead](https://unsplash.com/photos/cYyqhdbJ9TI)
 <h1 align="center">Hi 👋, I'm Fatih Mehmet</h1>
 <h3 align="center">I am currently a 2nd year computer engineering student.</h3>
 
